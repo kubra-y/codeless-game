@@ -6,10 +6,8 @@
  
 ◻️ the aim is reaching the target by pressing the buttons that rotate the maze
 
-ㅤㅤㅤㅤ<img src="https://github.com/kubra-y/codeless-game/assets/132761706/abbbaea5-4cba-4872-85c8-5e149157df11" 
-     data-canonical-src="https://github.com/kubra-y/codeless-game/assets/132761706/abbbaea5-4cba-4872-85c8-5e149157df11" width=50% />
+ㅤ<img src="https://github.com/kubra-y/codeless-game/assets/132761706/1345f5d5-28f0-4d7e-9800-f94dbe278414" 
+     data-canonical-src="https://github.com/kubra-y/codeless-game/assets/132761706/1345f5d5-28f0-4d7e-9800-f94dbe278414" width=50% />
 
-ㅤㅤㅤㅤ<img src="https://github.com/kubra-y/codeless-game/assets/132761706/0f17c71a-769d-4746-9e26-9ea8055de788" 
-     data-canonical-src="https://github.com/kubra-y/codeless-game/assets/132761706/0f17c71a-769d-4746-9e26-9ea8055de788" width=50% />
-
-
+ㅤ<img src="https://github.com/kubra-y/codeless-game/assets/132761706/13d06c9a-0134-4166-a52d-685898207093" 
+     data-canonical-src="https://github.com/kubra-y/codeless-game/assets/132761706/13d06c9a-0134-4166-a52d-685898207093" width=50% />
